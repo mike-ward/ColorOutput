@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.mikeward.coloroutput.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mikeward.coloroutput.MyBundle
 
 class MyApplicationService {
 
